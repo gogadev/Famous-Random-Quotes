@@ -1,0 +1,47 @@
+.random-quote {
+  display: grid;
+  justify-content: center;
+  justify-items: center;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.btn {
+  width: 100vw;
+  border-top: 2px solid lightgray;
+  border-bottom: 2px solid lightgray;
+  font-size: 1.8rem;
+  letter-spacing: 8px;
+  cursor: pointer;
+  outline: 0;
+  padding: 0.1rem;
+  color: lightslategray;
+}
+
+.quote,
+.author {
+  margin: 0.1rem auto;
+}
+
+.quote {
+  width: 100%;
+  letter-spacing: 7px;
+  text-transform: capitalize;
+  color: darkslategray;
+  padding: 0.2rem;
+}
+
+.author {
+  padding: 0.2rem;
+  color: lightslategray;
+  letter-spacing: 5px;
+}
+
+.image {
+  width: 100%;
+  background: #f6f6f6;
+}
+
+.image img {
+  width: 6%;
+}

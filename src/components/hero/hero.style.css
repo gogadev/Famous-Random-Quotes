@@ -1,0 +1,11 @@
+.hero {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.4)),
+    url("https://images.pexels.com/photos/1831747/pexels-photo-1831747.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+  height: 420px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-top: 4px solid #d4d4d4;
+  border-bottom: 4px solid #d4d4d4;
+  text-align: center;
+}
